@@ -13,7 +13,6 @@ This repo includes well-structured **notes, Q&A content, PDFs, and visuals** on 
 ### 🧠 Programming Languages
 - Python (Basics to Intermediate)
 - Java (Core concepts)
-- C / C++ fundamentals
 
 ### 🌐 Web Development
 - HTML Basics
